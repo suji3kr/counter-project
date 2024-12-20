@@ -1,0 +1,15 @@
+body {
+  padding: 20px;
+}
+
+.App {
+  margin: 0 auto;
+  width: 500px;
+}
+.App >section {
+  padding: 20px;
+  background-color: bisque;
+  border: 3px solid rgb(60, 124, 167);
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
